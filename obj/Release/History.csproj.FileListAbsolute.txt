@@ -1,0 +1,12 @@
+G:\Github\History\History\bin\History.dll
+G:\Github\History\History\bin\History.pdb
+G:\Github\History\History\bin\Newtonsoft.Json.dll
+G:\Github\History\History\bin\OTAPI.dll
+G:\Github\History\History\bin\TerrariaServer.exe
+G:\Github\History\History\bin\TShockAPI.dll
+G:\Github\History\History\bin\OTAPI.pdb
+G:\Github\History\History\bin\TerrariaServer.pdb
+G:\Github\History\History\obj\Release\History.csproj.CoreCompileInputs.cache
+G:\Github\History\History\obj\Release\History.csproj.CopyComplete
+G:\Github\History\History\obj\Release\History.dll
+G:\Github\History\History\obj\Release\History.pdb
